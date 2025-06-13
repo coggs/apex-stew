@@ -93,7 +93,6 @@ If you find any issues with the code or have suggestions for improvements, pleas
 ## 💬 Let's Connect!
 
 * **YouTube:** [APEX Stew](https://www.youtube.com/@apex_stew)
-* **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sjcoggins/)
 
 Thanks for stopping by, and I hope you find the code and the videos helpful!
