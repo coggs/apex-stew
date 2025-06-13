@@ -6,8 +6,8 @@ Welcome to the official code repository for the **APEX Stew** YouTube channel! H
 
 As a technology evangelist and developer who loves the power of low-code solutions, my goal with APEX Stew is to provide quick, practical tutorials that get straight to the point. This repository is a companion to those videos, giving you the resources you need to follow along and get your hands on the technology.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/s/YOUR_CHANNEL_ID?style=social)](https://www.youtube.com/c/APEXStew)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/s/UCI8m0pucoGEUIw_soVe1Kmg?style=social)](https://www.youtube.com/channel/UCI8m0pucoGEUIw_soVe1Kmg)
+
 
 ---
 
@@ -15,7 +15,7 @@ As a technology evangelist and developer who loves the power of low-code solutio
 
 APEX Stew is a YouTube channel dedicated to providing concise and practical tutorials on a wide range of technologies. The philosophy is simple: short videos focused on very specific tasks. No fluff, just the good stuff to help you solve real-world problems and learn new skills efficiently.
 
-➡️ **[Subscribe to APEX Stew on YouTube!](https://www.youtube.com/@apex_stew)** ⬅️
+➡️ **[Subscribe to APEX Stew on YouTube!](https://www.youtube.com/channel/UCI8m0pucoGEUIw_soVe1Kmg)** ⬅️
 
 ---
 
@@ -92,7 +92,7 @@ If you find any issues with the code or have suggestions for improvements, pleas
 
 ## 💬 Let's Connect!
 
-* **YouTube:** [APEX Stew](https://www.youtube.com/@apex_stew)
+* **YouTube:** [APEX Stew](https://www.youtube.com/channel/UCI8m0pucoGEUIw_soVe1Kmg)
 * **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sjcoggins/)
 
 Thanks for stopping by, and I hope you find the code and the videos helpful!
