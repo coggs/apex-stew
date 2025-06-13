@@ -1,6 +1,6 @@
 # APEX Stew - Code Repository
 
-![APEX Stew Banner](https://via.placeholder.com/1280x320.png?text=APEX+Stew+-+Short+%26+Sharp+Tech+Videos)
+![APEX Stew Banner](APEX_STEW_Banner.png)
 
 Welcome to the official code repository for the **APEX Stew** YouTube channel! Here you'll find all the source code, configuration files, and snippets featured in my short and sharp explainer videos.
 
