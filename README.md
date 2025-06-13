@@ -19,9 +19,9 @@ APEX Stew is a YouTube channel dedicated to providing concise and practical tuto
 
 ---
 
-## 📂 How This Repository is Organized
+## 📂 How This Repository is Organised
 
-This repository is organized by video topic. Each video that has associated code will have its own dedicated folder. The folder name will correspond to the title of the YouTube video, making it easy to find what you're looking for.
+This repository is organised by video topic. Each video that has associated code will have its own dedicated folder. The folder name will correspond to the title of the YouTube video, making it easy to find what you're looking for.
 
 For example, the code for a video titled "Automating Your Workflow with Low-Code Magic" will be located in the `/automating-your-workflow-with-low-code-magic` directory.
 
